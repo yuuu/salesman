@@ -1,4 +1,4 @@
-package salesman
+package main
 
 import (
 	"math"
